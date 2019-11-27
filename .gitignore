@@ -1,0 +1,9 @@
+# Databse
+app.db
+
+# IDEs
+/.vscode
+
+# Build artifacts
+/bin
+/obj
